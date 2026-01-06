@@ -56,7 +56,7 @@ Currently focusing on: **Generative AI & Full Stack Development**
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namte24&show_icons=true&theme=dark" alt="Namte24 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=namte24&show_icons=true&theme=" alt="Namte24 Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namte24&layout=compact&theme=dark" alt="Top Langs" />
