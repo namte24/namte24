@@ -54,18 +54,19 @@ Currently focusing on: **Generative AI & Full Stack Development**
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namte24&show_icons=true&theme=dark" alt="Namte24 Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namte24&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+# 📊 GitHub Stats:
 
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=namte24&theme=radical" alt="Trophies" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=namte24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=namte24&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=namte24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=namte24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 ### ✍️ Random Dev Quote
